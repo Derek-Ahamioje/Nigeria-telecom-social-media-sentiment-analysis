@@ -1,0 +1,10 @@
+pandas
+numpy
+nltk
+gensim
+matplotlib
+seaborn
+tweepy
+wordcloud
+tableau-api-lib
+jupyter
